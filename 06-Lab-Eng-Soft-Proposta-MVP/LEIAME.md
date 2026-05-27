@@ -16,5 +16,5 @@ Devem ser colocados arqui os seguites artefatos
 
 | Informações Acadêmicas |
 | :--- |
-| **Disciplina:** Laboratório de Engenharia de Software <br> **Prof.:** Veríssimo |
-
+| **Disciplina:** Laboratório de Engenharia de Software <br> **Prof.:** Veríssimo <br> **Turma:** Noturno |
+| **Equipe:** #10 - Chute App <br> **Aluno:** Gabriel Rodrigues Vjekoslav <br> **Vídeo Youtube:** https://youtu.be/4lVw2Vey344|
